@@ -1,0 +1,15 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    cursor: default;
+}
+
+.input-bg{
+    background-image: url("./Assets/Meteor.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
