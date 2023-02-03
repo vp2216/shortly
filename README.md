@@ -1,2 +1,2 @@
 # Shortly
-Application lets you shorten links and use those links anywhere. Used an api to get the shortend link.
+Application lets you shorten links and use those links anywhere. Used an api to get the shortend link. It is a react project and is fully responsive.
