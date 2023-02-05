@@ -1,5 +1,5 @@
 # Shortly
-Application lets you shorten links and use those links anywhere. Used an api to get the shortend link. It is a react project and is fully responsive.
+Application lets you shorten links and use those links anywhere. Used an api to get the shortend link. The app was hosted on Netlify. It is a react project and is fully responsive.
 
 Go to https://shortly-20.netlify.app/
 
